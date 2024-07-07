@@ -16,8 +16,8 @@ This project is a simple Order Management API built with Node.js, Express, and M
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   cd seu-repositorio
+   git clone https://github.com/JVSadan/jitterbitDesafio1.git
+   cd jitterbitDesafio1
    ```
 
 2. Install dependencies:
